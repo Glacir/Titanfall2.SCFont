@@ -2,5 +2,5 @@
 	"Name" : "FlameRaptor.SCFont",
 	"Description" : "Font for Simplified Chinese by FlameRaptor",
 	"Version": "1.0.0",
-	"LoadPriority": 2,
+	"LoadPriority": 2
 }
